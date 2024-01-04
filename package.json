@@ -1,0 +1,25 @@
+{
+  "name": "fe-basic-exts",
+  "displayName": "fe-basic-exts",
+  "description": "some useful extensions for FE developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "Gruntfuggly.todo-tree",
+    "streetsidesoftware.code-spell-checker",
+    "ChakrounAnas.turbo-console-log",
+    "naumovs.color-highlight",
+    "EditorConfig.EditorConfig",
+    "antfu.file-nesting",
+    "cweijan.vscode-office",
+    "tomoki1207.selectline-statusbar",
+    "iceworks-team.iceworks-time-master"
+  ]
+}
